@@ -7,3 +7,5 @@
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 ```
+
+努力学习   努力工作
